@@ -13,22 +13,18 @@
 
 ---
 
-### GitHub Projects
+
+### Recent GitHub Projects
+
+&nbsp;
 
 | Project | Description |
-
-|---|---|
-
+| --- | --- |
 | [Bearing-RUL-Prediction](https://github.com/sepehr-karimi/Bearing-RUL-Prediction) | Stage-aware deep fusion network for bearing remaining useful life estimation |
-
 | [FrozenLake_RL](https://github.com/sepehr-karimi/FrozenLake_RL) | Tabular RL on classic & custom gridworld environments |
-
 | [NLP_course](https://github.com/sepehr-karimi/NLP_course) | NLP experiments spanning core language modelling tasks |
-
 | [NBA_MVP_Prediction](https://github.com/sepehr-karimi/NBA_MVP_Prediction) | NBA MVP prediction using machine learning |
-
 | [Data-Analysis-Course](https://github.com/sepehr-karimi/Data-Analysis-Course) | Assignments and projects from a data analysis course |
-
 
 ---
 
